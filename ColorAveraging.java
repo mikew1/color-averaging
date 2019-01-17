@@ -3,6 +3,8 @@ import java.awt.Color;
 /**
  * ColorAveraging.java - inspired by Plasma.java, but focussing solely on color averaging.
  * author: Mike Walker
+ * Written with java 8 and requires Sedgewick & Wayne's standard libraries available at
+ *     https://introcs.cs.princeton.edu/java/stdlib/
  */
 public class ColorAveraging {
 
