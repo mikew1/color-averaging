@@ -51,8 +51,8 @@ is the same as the background color of the main square (we didn't plot that one 
 square, it would be the same color as its background, so invisible), its bottom right is 
 the yellow-green. Those are the *input* to another level of *exactly the same* computation. 
 You can see in the image below we now __a)__ draw each quadrant using a background color
-of its newly computed centroid color (average of its four corner colors), then __b)__ 
-compute all the new midpoint colors, simply from the corner colors, exactly as we did before.
+of its newly computed centroid color (average of _its_ four corner colors), then __b)__ 
+compute all the new midpoint colors, simply from corner colors, exactly as we did before.
 
 We do this for all four subquadrants:
 
