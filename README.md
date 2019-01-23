@@ -50,10 +50,9 @@ Its top left corner is the royal blue, its bottom left is the sky blue, its top 
 is the same as the background color of the main square (we didn't plot that one as a small
 square, it would be the same color as its background, so invisible), its bottom right is 
 the yellow-green. Those are the *input* to another level of *exactly the same* computation. 
-You can see in the image below we now __a)__ draw those quadrants now
-using a background color of their newly computed midpoint colors (average of their
-corner colors), then __b)__ compute their new midpoints, simply from their corner colors,
-exactly as we did before.
+You can see in the image below we now __a)__ draw each quadrants using a background color
+of its newly computed centroid color (average of its four corner colors), then __b)__ 
+compute all the new midpoint colors, simply from the corner colors, exactly as we did before.
 
 We do this for all four subquadrants:
 
