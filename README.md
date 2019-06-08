@@ -1,4 +1,6 @@
-I did this mainly to learn a bit more about recursion.
+Let's have some fun and hack with recursion a bit.
+
+Generating graphics is a great way to explore recursion because... well you can see the result obviously.
 
 # How it works
 
