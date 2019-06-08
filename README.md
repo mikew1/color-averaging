@@ -1,3 +1,5 @@
+I did this mainly to learn a bit more about recursion.
+
 # How it works
 
 Program is invoked with four arguments:
