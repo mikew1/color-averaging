@@ -110,10 +110,3 @@ and its final image is:
 All that from four numbers and some recursive averaging...
 
 ___The verdict? ...Not bad but it ain't no Monet!___
-
----
-
-Here's a Manet.
-
-![screen shot canvas](Manet.jpg?raw=true "")
-
