@@ -1,6 +1,9 @@
 
-The may ways to use recursion tend to map well to a broadly equivalent range of 
-generated shapes and forms, making this a nice pairing for exploration.
+Recursion and graphics make a nice pairing for exploration.
+
+For recursion, it makes the algorithm visible.
+
+For graphics, it lets you generate complex shapes from a tiny foundation.
 
 # Running the code
 
