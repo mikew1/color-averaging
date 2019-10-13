@@ -1,5 +1,5 @@
 
-Recursion and graphics make a nice pairing for exploration.
+Recursion and graphics tend to make a nice pairing for exploration.
 
 For recursion, it makes the algorithm visible.
 
